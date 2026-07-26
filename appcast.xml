@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AI Voice Hub</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 27 Jul 2026 02:30:01 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ghostdevai300-ctrl/AIVoiceHub-releases/releases/download/v0.1.0/AIVoiceHub-0.1.0.dmg" length="3569680" type="application/octet-stream" sparkle:edSignature="sHCAljYaqhEDjhO3xJzZBdBKaDlDqkFX/AX0w8uXXOrubbMvkX+LkCVzLAEJAl2JFcoTMs3hhSXhpIH8+YJiBQ=="/>
+        </item>
+    </channel>
+</rss>
