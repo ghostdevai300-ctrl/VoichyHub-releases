@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AI Voice Hub</title>
+        <title>Voichy Hub</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 27 Jul 2026 02:30:01 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Mon, 27 Jul 2026 11:13:03 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ghostdevai300-ctrl/AIVoiceHub-releases/releases/download/v0.1.0/AIVoiceHub-0.1.0.dmg" length="3569680" type="application/octet-stream" sparkle:edSignature="sHCAljYaqhEDjhO3xJzZBdBKaDlDqkFX/AX0w8uXXOrubbMvkX+LkCVzLAEJAl2JFcoTMs3hhSXhpIH8+YJiBQ=="/>
+            <enclosure url="https://github.com/ghostdevai300-ctrl/VoichyHub-releases/releases/download/v0.2.0/VoichyHub-0.2.0.dmg" length="3564560" type="application/octet-stream" sparkle:edSignature="mrjWho4/VAHwpg1+1Xo2GxxRfUL0mpV8aWjcAhaK/7FXZP9o1LjGPQI3ecFZr0IcXbe7M9eX/p3WGJLmFj65DQ=="/>
         </item>
     </channel>
 </rss>
