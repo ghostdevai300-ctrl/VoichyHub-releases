@@ -3,6 +3,14 @@
     <channel>
         <title>Voichy Hub</title>
         <item>
+            <title>0.27.0</title>
+            <pubDate>Mon, 03 Aug 2026 10:02:29 +0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ghostdevai300-ctrl/VoichyHub-releases/releases/download/v0.27.0/VoichyHub-0.27.0.dmg" length="5990177" type="application/octet-stream" sparkle:edSignature="dFQnbSgsaz76CAoiJnFSiDhZgxp/OKilC+W+HCVHCr9e1hsQS6rtVD0ds8m7PDZEnr0szksxOwJ3MtRP/6FCBg=="/>
+        </item>
+        <item>
             <title>0.26.0</title>
             <pubDate>Sun, 02 Aug 2026 13:20:03 +0300</pubDate>
             <sparkle:version>26</sparkle:version>
